@@ -25,7 +25,7 @@
 	      var modid=prefs.getString("modid");
 	      var width=prefs.getString("width");        
 	      var height=prefs.getString("height");                
-	      var mod = new MODERATOR("https://www.google.com/moderator/#16/e="+modid);
+        var mod = new MODERATOR("https://www.google.com/moderator/#15/e="+modid);
 	      mod.hl = 'en';
 	      mod.width = width;  
 	      mod.height = height;
