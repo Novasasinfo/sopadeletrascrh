@@ -1,4 +1,3 @@
-
 /*!
  * The Word Search Game Widget
  *
@@ -132,7 +131,7 @@
 
 					var selectedWord = this.model.wordList.get(idx);
 					$(selectedWord.cellsUsed).each ( function () {
-						Visualizer.highlight($(this.td));
+						//Visualizer.highlight($(this.td));
 					});
 					
 				}
