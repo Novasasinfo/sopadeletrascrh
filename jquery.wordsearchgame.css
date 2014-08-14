@@ -1,4 +1,3 @@
-
 /* Style for grid cells */
 .rf-tgrid {
     
@@ -17,7 +16,7 @@
 .rf-tablestyle {
     border: 2px solid;
     border-color: gold;
-    background-color: ghostwhite;
+    background-color: hsla(170, 50%, 45%, 0.9);
     cursor: pointer;
 
 }
