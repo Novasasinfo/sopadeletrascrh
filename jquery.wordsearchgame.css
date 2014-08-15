@@ -1,3 +1,7 @@
+body {
+    background-color: transparent;
+}
+
 /* Style for grid cells */
 .rf-tgrid {
     
