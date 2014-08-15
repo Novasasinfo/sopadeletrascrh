@@ -16,7 +16,7 @@
 .rf-tablestyle {
     border: 2px solid;
     border-color: gold;
-    background-color: hsla(170, 50%, 45%, 0.9);
+    background-color: transparent;
     cursor: pointer;
 
 }
@@ -41,6 +41,7 @@
     -webkit-border-radius: 20px;
     -khtml-border-radius: 20px;
     border-radius: 20px;	
+    background-color: transparent;
     
 	cursor: pointer;	
 }
@@ -55,7 +56,7 @@
 }
 
 #rf-tablegrid .rf-armed {
-/*	background: lightcyan;*/
+  background: transparent;
 }
 
 #rf-tablegrid .rf-highlight {
